@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4fd6a740_002D5557_002D40d8_002D8271_002D745ad8f1e643/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestMethod1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::C306F90D-587F-4542-AB91-D104804A27C6::net6.0::AreaCalculationTests.TriangleAreaTests.TestTriangleArea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C306F90D-587F-4542-AB91-D104804A27C6::net6.0::AreaCalculationTests.CircleAreaTests.TestCircleArea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C306F90D-587F-4542-AB91-D104804A27C6::net6.0::AreaCalculationTests.CircleAreaTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C306F90D-587F-4542-AB91-D104804A27C6::net6.0::AreaCalculationTests.TriangleAreaTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C306F90D-587F-4542-AB91-D104804A27C6::net6.0::AreaCalculationTests.ListAreaTests.TestListArea&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

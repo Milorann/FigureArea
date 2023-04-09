@@ -1,0 +1,12 @@
+F:\RiderProjects\FigureArea\FigureArea\bin\Debug\net6.0\FigureArea.deps.json
+F:\RiderProjects\FigureArea\FigureArea\bin\Debug\net6.0\FigureArea.dll
+F:\RiderProjects\FigureArea\FigureArea\bin\Debug\net6.0\FigureArea.pdb
+F:\RiderProjects\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.csproj.AssemblyReference.cache
+F:\RiderProjects\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.GeneratedMSBuildEditorConfig.editorconfig
+F:\RiderProjects\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.AssemblyInfoInputs.cache
+F:\RiderProjects\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.AssemblyInfo.cs
+F:\RiderProjects\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.csproj.CoreCompileInputs.cache
+F:\RiderProjects\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.dll
+F:\RiderProjects\FigureArea\FigureArea\obj\Debug\net6.0\refint\FigureArea.dll
+F:\RiderProjects\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.pdb
+F:\RiderProjects\FigureArea\FigureArea\obj\Debug\net6.0\ref\FigureArea.dll
