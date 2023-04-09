@@ -7,5 +7,5 @@
 ```
 SELECT Products.Name, Categories.Name FROM products
 LEFT OUTER JOIN Entries ON (Products.ID = Entries.ProductID ) 
-LEFT OUTER Join Categories ON (Entries.CategoryID = Categories.ID);
+LEFT OUTER JOIN Categories ON (Entries.CategoryID = Categories.ID);
 ```
