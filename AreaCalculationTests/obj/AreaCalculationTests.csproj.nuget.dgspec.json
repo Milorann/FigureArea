@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RiderProjects\\FigureArea\\AreaCalculationTests\\AreaCalculationTests.csproj": {}
+    "D:\\C#\\AreaCalculationTests\\AreaCalculationTests.csproj": {}
   },
   "projects": {
-    "F:\\RiderProjects\\FigureArea\\AreaCalculationTests\\AreaCalculationTests.csproj": {
+    "D:\\C#\\AreaCalculationTests\\AreaCalculationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RiderProjects\\FigureArea\\AreaCalculationTests\\AreaCalculationTests.csproj",
+        "projectUniqueName": "D:\\C#\\AreaCalculationTests\\AreaCalculationTests.csproj",
         "projectName": "AreaCalculationTests",
-        "projectPath": "F:\\RiderProjects\\FigureArea\\AreaCalculationTests\\AreaCalculationTests.csproj",
-        "packagesPath": "C:\\Users\\HomeUser\\.nuget\\packages\\",
-        "outputPath": "F:\\RiderProjects\\FigureArea\\AreaCalculationTests\\obj\\",
+        "projectPath": "D:\\C#\\AreaCalculationTests\\AreaCalculationTests.csproj",
+        "packagesPath": "C:\\Users\\olist\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\AreaCalculationTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HomeUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\olist\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\RiderProjects\\FigureArea\\FigureArea\\FigureArea.csproj": {
-                "projectPath": "F:\\RiderProjects\\FigureArea\\FigureArea\\FigureArea.csproj"
+              "D:\\C#\\FigureArea\\FigureArea.csproj": {
+                "projectPath": "D:\\C#\\FigureArea\\FigureArea.csproj"
               }
             }
           }
@@ -72,33 +70,45 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\RiderProjects\\FigureArea\\FigureArea\\FigureArea.csproj": {
+    "D:\\C#\\FigureArea\\FigureArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RiderProjects\\FigureArea\\FigureArea\\FigureArea.csproj",
+        "projectUniqueName": "D:\\C#\\FigureArea\\FigureArea.csproj",
         "projectName": "FigureArea",
-        "projectPath": "F:\\RiderProjects\\FigureArea\\FigureArea\\FigureArea.csproj",
-        "packagesPath": "C:\\Users\\HomeUser\\.nuget\\packages\\",
-        "outputPath": "F:\\RiderProjects\\FigureArea\\FigureArea\\obj\\",
+        "projectPath": "D:\\C#\\FigureArea\\FigureArea.csproj",
+        "packagesPath": "C:\\Users\\olist\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\FigureArea\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HomeUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\olist\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -127,12 +137,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

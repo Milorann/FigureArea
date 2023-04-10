@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fsR1MNOuTmKYs/S7AC9lrTLyD7q75jLirW1LUDqCGdWEDikPKottv6j/vZWEd4HRfbZkGdu0rUy6fNFr0ra/Jg==",
+  "dgSpecHash": "Mqc+GSnQcE9o/cGB0TmBNukNaPpZ5J90Phgf+VgeL8S2AllW4z4DFTby7QqeuZKIK89n11SsTzTV4UKG+Ov2/Q==",
   "success": true,
-  "projectFilePath": "F:\\RiderProjects\\FigureArea\\FigureArea\\FigureArea.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\C#\\FigureArea\\FigureArea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olist\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\olist\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\olist\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

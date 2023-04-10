@@ -6,5 +6,6 @@
     &lt;TestId&gt;MSTest::C306F90D-587F-4542-AB91-D104804A27C6::net6.0::AreaCalculationTests.CircleAreaTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;MSTest::C306F90D-587F-4542-AB91-D104804A27C6::net6.0::AreaCalculationTests.TriangleAreaTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;MSTest::C306F90D-587F-4542-AB91-D104804A27C6::net6.0::AreaCalculationTests.ListAreaTests.TestListArea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C306F90D-587F-4542-AB91-D104804A27C6::net6.0::AreaCalculationTests.ListAreaTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
